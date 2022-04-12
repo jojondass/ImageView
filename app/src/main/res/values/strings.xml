@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImageView</string>
+    <string name="btn_image1_text">Image 1</string>
+    <string name="btn_image2_text">Image 2</string>
+    <string name="btn_image3_text">Image 3</string>
+    <string name="image_description">Une Image</string>
+</resources>
